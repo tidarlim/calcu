@@ -45,7 +45,7 @@ button {
     background-color: orange;
 }
 
-.button:hover {
+button:hover {
     background-color: darkgray;
 }
 
